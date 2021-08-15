@@ -11,10 +11,8 @@ A flutter application to check on the weather of your current location or the lo
 6. Has a navigation button that directs you to the back to show the weather of your current location after you look up other locations.
 
 ## ScreenShots:
-<img src ="ScreenShots/clear.jpg" width = 360>
-<img src ="ScreenShots/cloud.jpg" width = 360>
-<img src ="ScreenShots/rain.jpg" width = 360>
-<img src ="ScreenShots/search_location.jpg" width = 360>
+<img src ="ScreenShots/clear.jpg" width = 360>  <img src ="ScreenShots/cloud.jpg" width = 360>
+<img src ="ScreenShots/rain.jpg" width = 360>  <img src ="ScreenShots/search_location.jpg" width = 360>
 
 **API USED:** [OpenWeatherMap](https://openweathermap.org/)
 
